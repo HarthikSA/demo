@@ -1,2 +1,7 @@
 # demo
-this is demo for Git and Github class .
+this is demo for Git &amp; Github class .
+# Teacher
+shrada
+
+# student
+student
